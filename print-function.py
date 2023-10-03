@@ -1,4 +1,6 @@
 
+"""function that concatenates sequence numbers according to the parameter sent"""
+
 def personalized_print(n):
 
     _result = ""
